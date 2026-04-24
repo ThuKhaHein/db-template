@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "db-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "23f5107f-7cef-4b00-93c3-74b62286f075",
+			"database_name": "taskos_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
